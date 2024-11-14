@@ -5,3 +5,4 @@ i have completed my github installation process right now
 now you can see the story of my life
 here i've completed my new journey to see the new world
 i've passion for learing javascript and python in the present year
+javascript for web development and python for machine learning
